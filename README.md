@@ -1,15 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f93431&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8a9b1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=64ac54&size=35&center=true&vCenter=true&width=1000&lines=%F0%93%86%A9%E2%99%A1%F0%93%86%AA+hi,+my+name+is+amanda+%F0%93%86%A9%E2%99%A1%F0%93%86%AA;%F0%93%86%A9%E2%99%A1%F0%93%86%AA+i'm+20+years+old+%F0%93%86%A9%E2%99%A1%F0%93%86%AA;%F0%93%86%A9%E2%99%A1%F0%93%86%AA+i'm+from+brazil+%F0%93%86%A9%E2%99%A1%F0%93%86%AA;%F0%93%86%A9%E2%99%A1%F0%93%86%AA+i+study+computer+engineering+at+PUC+%F0%93%86%A9%E2%99%A1%F0%93%86%AA;be+welcome!+%28%CB%B5+%E2%80%A2%CC%83+%E1%B4%97+-+%CB%B5+%29+%E2%9C%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d8a9b1&size=35&center=true&vCenter=true&width=1000&lines=%F0%93%86%A9%E2%99%A1%F0%93%86%AA+hi,+my+name+is+amanda+%F0%93%86%A9%E2%99%A1%F0%93%86%AA;%F0%93%86%A9%E2%99%A1%F0%93%86%AA+i'm+20+years+old+%F0%93%86%A9%E2%99%A1%F0%93%86%AA;%F0%93%86%A9%E2%99%A1%F0%93%86%AA+i'm+from+brazil+%F0%93%86%A9%E2%99%A1%F0%93%86%AA;%F0%93%86%A9%E2%99%A1%F0%93%86%AA+i+study+computer+engineering+at+PUC+%F0%93%86%A9%E2%99%A1%F0%93%86%AA;be+welcome!+%28%CB%B5+%E2%80%A2%CC%83+%E1%B4%97+-+%CB%B5+%29+%E2%9C%A7)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mandyvm&show_icons=true&count_private=true&hide_border=true&title_color=e4142c&icon_color=64ac54&text_color=eadfe3&bg_color=0d1117" alt="Amanda VM github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandyvm&layout=compact&hide_border=true&title_color=e4142c&text_color=eadfe3&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mandyvm&show_icons=true&count_private=true&hide_border=true&title_color=bd717b&icon_color=d8a9b1&text_color=c9d1d9&bg_color=0d1117" alt="Amanda VM github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandyvm&layout=compact&hide_border=true&title_color=bd717b&text_color=d8a9b1&bg_color=0d1117" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mandyvm&bg_color=f0c7c7&color=000000&line=64ac54&point=fc3434&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mandyvm&bg_color=d8cacd&color=94575f&line=d8a9b1&point=5c5c5c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mandyvm&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -46,4 +46,4 @@
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f93431&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8a9b1&height=120&section=footer"/>
