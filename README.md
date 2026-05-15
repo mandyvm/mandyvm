@@ -8,7 +8,7 @@
 
 ### 𓆩♡𓆪 my contributions
 
-<img src="https://github-readme-stats.vercel.app/api/calendar.png?username=mandyvm&color=d8a9b1" alt="Amanda's contribution graph" />
+![Contribution Graph](https://ghchart.rshah.org/d8a9b1/mandyvm)
 
 </div>
 
